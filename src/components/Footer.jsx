@@ -15,9 +15,7 @@ const Footer = () => {
           <a href="#features" className="hover:text-blue-400 transition">
             Features
           </a>
-          <a href="#pricing" className="hover:text-blue-400 transition">
-            Pricing
-          </a>
+         
           <a href="#about" className="hover:text-blue-400 transition">
             About
           </a>
